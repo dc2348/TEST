@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '[Google] 구글 inviable reCAPTCHA v2 적용하기'
+title: '[Google] 구글 reCAPTCHA v2 적용하기'
 author: hyesoo.shin
 date: 2017-11-27 18:30
 tags: [javascript, Google]
@@ -8,7 +8,7 @@ image: /files/covers/first_post.jpg
 comments : true
 ---
 
-# 구글 invisible reCAPTCHA v2 적용하기
+# 구글 reCAPTCHA v2 적용하기
 
 ## 1. API Key 발급받기
 * API key 발급 URL
