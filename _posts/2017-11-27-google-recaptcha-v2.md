@@ -75,13 +75,9 @@ comments : true
 			$("#reCAPTCHA_result").html("success!!!!");
 	};
 	var onloadCallback = function() {
-		console.log(">>>>> onloadCallback");
 		grecaptcha.render('reCAPTCHA', {
-			'sitekey'	: '6LdDqjoUAAAAAGukHh37tyog1lQFFbl3Vy4fkj1Y',
+			'sitekey'	: '6LdDqjoUAAAAAXXXXXXXXXXXXXXXXXXXXXXXXXXX',
 			'callback' : verifyCallback
-			//'theme'	: 'dark',
-			//'type' 	: 'audio',
-			//'size'	: 'compact'
 		});
 	};
 </script>
