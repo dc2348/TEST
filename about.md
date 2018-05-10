@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 image: /files/covers/blog2.jpg
 tags: [about]
