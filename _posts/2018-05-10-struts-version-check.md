@@ -1,14 +1,14 @@
 ---
 layout: post
-title: '[Struts] 스트러츠 버전 확인 하는 방법'
+title: '[Struts] 스트럿츠 버전 확인 하는 방법'
 author: hyesoo.shin
-date: 2018-05-10 18:30
+date: 2018-05-10 11:30
 tags: [Struts]
 image: /files/covers/first_post.jpg
 comments : true
 ---
 
-# 스트러츠 버전 확인 하는 방법
+# 스트럿츠 버전 확인 하는 방법
 
 
 
