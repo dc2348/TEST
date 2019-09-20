@@ -1,4 +1,9 @@
 ---
-layout: blog
+layout: home
 ---
-blog index.html 파일 테스트 입니다.
+<ul id="post-list">
+    {% for post in paginator.posts %}
+        {% include item.html %}
+    {% endfor %}
+</ul>
+{% include pagination.html %}
